@@ -1,0 +1,28 @@
+body {
+    background-color: #f0f0f0;
+    /* Light gray background */
+    text-align: center;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.christmas-text {
+    font-size: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #e74c3c;
+    /* Red color */
+    text-shadow: 2px 2px 4px #bdc3c7;
+    /* Light gray shadow */
+    letter-spacing: 2px;
+    padding: 20px;
+    border: 2px solid #c0392b;
+    /* Darker red border */
+    border-radius: 10px;
+    background-color: #ffffff;
+    /* White background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Light shadow */
+}
